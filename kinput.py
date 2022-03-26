@@ -4,6 +4,7 @@ WIDTH = 420
 HEIGHT= 420
 game_window=pygame.display.set_mode((WIDTH,HEIGHT))
 
+''' Initialize RGB colours'''
 RED  =(  255,  0,  0) 
 BLUE =(  0,  0,  255)
 WHITE= (  255,  255,  255)
